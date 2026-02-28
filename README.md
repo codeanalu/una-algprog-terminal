@@ -17,4 +17,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 ## 📸 Evidência de Execução
 
-![Foto do meu terminal](foto do meu terminal.png)
+![Foto do meu terminal](print.png)
