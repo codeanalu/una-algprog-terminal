@@ -1,3 +1,4 @@
+Ana Luiza Gomes Menezes
 # ⚡ Meus Comandos Favoritos
 Aqui estão os comandos que mais utilizei na aula de Terminal:
 
